@@ -1,0 +1,62 @@
+{
+ "id": "f36efcb2-47bd-4d80-80bc-149d3b4a328b",
+ "brand": "Apple",
+ "name": "Macbook Pro",
+ "cpu": {
+  "brand": "AMD",
+  "name": "Ryzen 7 PRO 2700U",
+  "numberCores": 2,
+  "numberThreads": 8,
+  "minGhz": 3.1244588505078124,
+  "maxGhz": 3.735860645920829
+ },
+ "ram": {
+  "value": "5",
+  "unit": 5
+ },
+ "gpus": [
+  {
+   "brand": "AMD",
+   "name": "RX Vega-56",
+   "minGhz": 1.2944266685622439,
+   "maxGhz": 1.9246098038612969,
+   "memory": {
+    "value": "6",
+    "unit": 5
+   }
+  }
+ ],
+ "storages": [
+  {
+   "driver": 2,
+   "memory": {
+    "value": "956",
+    "unit": 5
+   }
+  },
+  {
+   "driver": 1,
+   "memory": {
+    "value": "5",
+    "unit": 6
+   }
+  }
+ ],
+ "screen": {
+  "sizeInch": 14.35524,
+  "resolution": {
+   "width": 3022,
+   "height": 1700
+  },
+  "panel": 2,
+  "multitouch": false
+ },
+ "keyboard": {
+  "layout": 3,
+  "backlit": false
+ },
+ "weightKg": 2.262292458764273,
+ "priceUsd": 3195.9722456724403,
+ "releaseYear": 2015,
+ "updatedAt": "2022-12-06T15:15:10.355955611Z"
+}
